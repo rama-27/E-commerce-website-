@@ -2,7 +2,9 @@ import React from 'react'
 
 const ShopCategory = () => {
   return (
-    <div></div>
+    <div className='shop-category'>
+      
+    </div>
   )
 }
 
